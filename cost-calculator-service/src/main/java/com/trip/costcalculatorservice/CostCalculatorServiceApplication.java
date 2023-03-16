@@ -15,6 +15,7 @@ public class CostCalculatorServiceApplication {
     }
 
     public static void main(String[] args) {
+
         SpringApplication.run(CostCalculatorServiceApplication.class, args);
     }
 
